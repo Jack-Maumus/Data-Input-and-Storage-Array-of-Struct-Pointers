@@ -1,0 +1,14 @@
+2014 Tesla Model S
+VIN: 0qa948trldfjasdf8
+Doors: 4
+Rear Configuration: trunk
+
+2016 Yamaha 190 FSH
+VIN: sdluaw43rjearfaod
+Motor: inboard
+
+2022 Ford F-150 XLT
+VIN: aero8qwaejfalskdf
+Doors: 2
+Max Towing Capacity: 1.5
+
